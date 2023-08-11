@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "creador": "Paco Rabanne",
+        "nombre": "One Millon",
+        "precio": 44550,
+        "imagen": "OneMillon.jpg"
+    },
+    {
+        "id": 2,
+        "creador": "Lancome",
+        "nombre":  "La Vie Est Belle",
+        "precio": 45900,
+        "imagen": "LavieestBelle.jpg"
+    },
+    {
+        
+        "id": 3,
+        "creador": "Paco Rabanne",
+        "nombre": "Invictus",
+        "precio": 44500,
+        "imagen": "Invictus.jpg"
+    },
+    {
+        "id": 4,
+        "creador": "Paco Rabanne",
+        "nombre": "Black XS woman",
+        "precio": 42000,
+        "imagen": "PureXS.jpg"
+    },
+    {
+        "id": 5,
+        "creador": "Carolina Herrera",
+        "nombre": "Bad Boy",
+        "precio": 70500,
+        "imagen": "BadBoy.jpg"
+    },
+    {
+        "id": 6,
+        "creador": "Jean Paul Gaultier",
+        "nombre": "Scandal",
+        "precio": 43000,
+        "imagen": "Scandal.jpg"
+    }
+]
+

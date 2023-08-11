@@ -1,0 +1,16 @@
+{
+  "name": "proyectocarrito",
+  "version": "1.0.0",
+  "description": "Proyecto final de un carrito de compras",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maffioni Julieta",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "luxon": "^3.3.0",
+    "sweetalert": "^2.1.2"
+  }
+}
